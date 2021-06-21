@@ -1,0 +1,13 @@
+C:\Users\charles\source\repos\ProjectUraniumAutoBuilder\ProjectUraniumAutoBuilder\bin\Debug\ProjectUraniumAutoBuilder.exe.config
+C:\Users\charles\source\repos\ProjectUraniumAutoBuilder\ProjectUraniumAutoBuilder\bin\Debug\ProjectUraniumAutoBuilder.exe
+C:\Users\charles\source\repos\ProjectUraniumAutoBuilder\ProjectUraniumAutoBuilder\bin\Debug\ProjectUraniumAutoBuilder.pdb
+C:\Users\charles\source\repos\ProjectUraniumAutoBuilder\ProjectUraniumAutoBuilder\obj\Debug\ProjectUraniumAutoBuilder.csproj.AssemblyReference.cache
+C:\Users\charles\source\repos\ProjectUraniumAutoBuilder\ProjectUraniumAutoBuilder\obj\Debug\ProjectUraniumAutoBuilder.Form1.resources
+C:\Users\charles\source\repos\ProjectUraniumAutoBuilder\ProjectUraniumAutoBuilder\obj\Debug\ProjectUraniumAutoBuilder.Properties.Resources.resources
+C:\Users\charles\source\repos\ProjectUraniumAutoBuilder\ProjectUraniumAutoBuilder\obj\Debug\ProjectUraniumAutoBuilder.csproj.GenerateResource.cache
+C:\Users\charles\source\repos\ProjectUraniumAutoBuilder\ProjectUraniumAutoBuilder\obj\Debug\ProjectUraniumAutoBuilder.csproj.CoreCompileInputs.cache
+C:\Users\charles\source\repos\ProjectUraniumAutoBuilder\ProjectUraniumAutoBuilder\obj\Debug\ProjectUraniumAutoBuilder.exe
+C:\Users\charles\source\repos\ProjectUraniumAutoBuilder\ProjectUraniumAutoBuilder\obj\Debug\ProjectUraniumAutoBuilder.pdb
+C:\Users\charles\source\repos\ProjectUraniumAutoBuilder\ProjectUraniumAutoBuilder\bin\Debug\FolderSelect.exe
+C:\Users\charles\source\repos\ProjectUraniumAutoBuilder\ProjectUraniumAutoBuilder\bin\Debug\FolderSelect.pdb
+C:\Users\charles\source\repos\ProjectUraniumAutoBuilder\ProjectUraniumAutoBuilder\obj\Debug\ProjectUraniumAutoBuilder.csproj.CopyComplete
