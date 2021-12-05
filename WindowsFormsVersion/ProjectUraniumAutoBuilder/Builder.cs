@@ -81,7 +81,7 @@ namespace ProjectUraniumAutoBuilder
             String grasswalk = location + @"\PU-Grasswalk.ogg";
             arg = "-c:a copy";
             inputs[0] = grasswalk;
-            RunFFmpeg(inputs, arg, location + @"\PU-GrasswalkFixed.wav");
+            RunFFmpeg(inputs, arg, location + @"\PU-GrasswalkFixed.ogg");
             File.Delete(grasswalk);
 
             percentComplete = 50;
